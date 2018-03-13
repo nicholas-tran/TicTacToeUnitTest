@@ -1,0 +1,9 @@
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\My Works\Chapter 6\Tran_CIS3374_Lab06_TicTacToe\Tran_CIS3374_Lab06_TicTacToe\bin\Debug\Tran_CIS3374_Lab06_TicTacToe.exe.config
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\My Works\Tran_CIS3374_Lab06_TicTacToe\Tran_CIS3374_Lab06_TicTacToe\bin\Debug\Tran_CIS3374_Lab06_TicTacToe.exe.config
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\My Works\Tran_CIS3374_Lab06_TicTacToe\Tran_CIS3374_Lab06_TicTacToe\bin\Debug\Tran_CIS3374_Lab06_TicTacToe.exe
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\My Works\Tran_CIS3374_Lab06_TicTacToe\Tran_CIS3374_Lab06_TicTacToe\bin\Debug\Tran_CIS3374_Lab06_TicTacToe.pdb
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\My Works\Tran_CIS3374_Lab06_TicTacToe\Tran_CIS3374_Lab06_TicTacToe\obj\Debug\Tran_CIS3374_Lab06_TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\My Works\Tran_CIS3374_Lab06_TicTacToe\Tran_CIS3374_Lab06_TicTacToe\obj\Debug\Tran_CIS3374_Lab06_TicTacToe.Properties.Resources.resources
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\My Works\Tran_CIS3374_Lab06_TicTacToe\Tran_CIS3374_Lab06_TicTacToe\obj\Debug\Tran_CIS3374_Lab06_TicTacToe.csproj.GenerateResource.Cache
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\My Works\Tran_CIS3374_Lab06_TicTacToe\Tran_CIS3374_Lab06_TicTacToe\obj\Debug\Tran_CIS3374_Lab06_TicTacToe.exe
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\My Works\Tran_CIS3374_Lab06_TicTacToe\Tran_CIS3374_Lab06_TicTacToe\obj\Debug\Tran_CIS3374_Lab06_TicTacToe.pdb
